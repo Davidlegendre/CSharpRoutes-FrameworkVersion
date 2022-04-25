@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace CSharpRoutes_FrameworkVersion
+namespace CSharpRoutes.lib
 {
     public class Rutas
     {
