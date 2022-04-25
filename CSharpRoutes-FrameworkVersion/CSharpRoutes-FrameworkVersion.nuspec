@@ -10,18 +10,15 @@
     <!-- <icon>icon.png</icon> -->
     <projectUrl>https://github.com/Davidlegendre/CSharpRoutes-FrameworkVersion</projectUrl>
     <description>CSharpRoutes es una libreria para crear rutas al estilo Express pero orientado al desarrollo desktop</description>
-    <icon>CSharpRoutes icon.png</icon>
+    <icon>CSharpRoutes-icon.ico</icon>
     <releaseNotes>Primera version</releaseNotes>
     <copyright>Copyright © 2022 by David Legendre</copyright>
     <tags>CSharpRoutes Routes Rutas Ruta desktop</tags>
     <repository type="git" url="https://github.com/Davidlegendre/CSharpRoutes-FrameworkVersion.git" branch="dev" />
     <dependencies>
-      <group targetFramework=".NETFramework4.5">
+      <group targetFramework="net45">
         <dependency id="Newtonsoft.Json" version="13.0.1" />
       </group>
     </dependencies>
-  </metadata>
-  <files>
-    <file src=".\CSharpRoutes icon.png" target="\" />
-  </files>
+  </metadata>  
 </package>
