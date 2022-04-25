@@ -60,7 +60,7 @@ Accion = (obj)=>{ /funcion que recibe y envia un object/ } }
 
 Para obtener Rutas solo llame a RMethod
 ```
-RMethod.Get(string ruta, object? json = null)
+RMethod.Get(string ruta, object json = null)
 ```
 si desea enviar json en Get puede hacerlo, sino, no use el parametro json
 
